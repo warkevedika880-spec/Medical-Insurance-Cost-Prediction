@@ -23,6 +23,7 @@ Visualized data using graphs and heatmaps
 Applied Label Encoding and Feature Scaling
 Trained multiple Machine Learning models
 Compared model performance using evaluation metrics
+
 🤖 Machine Learning Models Used
 Linear Regression
 K-Nearest Neighbors (KNN)
