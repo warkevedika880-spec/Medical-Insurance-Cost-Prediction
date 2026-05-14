@@ -1,11 +1,11 @@
 Medical Insurance Cost Prediction using Machine Learning
-📌 Project Overview
+#Project Overview
 
 Medical expenses are increasing rapidly, and predicting insurance costs manually is challenging because many factors affect healthcare charges. This project uses Machine Learning algorithms to analyze medical insurance data and predict insurance costs accurately.
 
 The system studies important factors such as age, BMI, smoking habits, gender, number of children, and region to estimate future medical expenses. By using predictive analytics, the project helps in making faster and smarter insurance decisions.
 
-🎯 Goal of the Project
+ #Goal of the Project
 
 The main goal of this project is to build a Machine Learning model that can predict medical insurance charges based on a person's health and lifestyle information.
 
